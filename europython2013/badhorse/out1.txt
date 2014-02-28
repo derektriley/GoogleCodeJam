@@ -1,0 +1,10 @@
+[[], []]
+[['Dead_Bowie'], ['Nyssa_Raatko']]
+[['Dead_Bowie', 'Animora'], ['Nyssa_Raatko', 'Lafety_Le_Fei']]
+[['Dead_Bowie', 'Animora', 'Mothergod'], ['Nyssa_Raatko', 'Lafety_Le_Fei', 'Animora']]
+Case #1: No
+[[], []]
+[['Mephista'], ['New_Wave']]
+[['Mephista', 'Ursa'], ['New_Wave', 'Mephista']]
+[['Mephista', 'Ursa', 'Zaladane'], ['New_Wave', 'Mephista', 'Mai_Shen']]
+Case #2: No
